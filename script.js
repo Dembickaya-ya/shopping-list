@@ -17,7 +17,6 @@ sendInput.addEventListener('keydown', function (event) {
     } 
 })
 
-
 /* Новые элементы должны добавляться в список по нажатию на Enter */
 
 /* Пустые элементы не должны добавляться */
